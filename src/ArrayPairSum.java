@@ -3,7 +3,7 @@ import java.util.List;
 
 
 public class ArrayPairSum {
-    static int [] array = {10,12,13,4,15,9,45,74,52};
+    static int [] array = {10,-10,3,5,3,2,5,6,7,8,12,13,4,15,9,45,74,52};
 
     public static void main(String[] args) {
    findAndPrintPairs(array, 25);
